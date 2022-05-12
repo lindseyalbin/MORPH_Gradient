@@ -26,17 +26,6 @@ let sketch = function (p) {
     canvas.mouseOut(stopRunning);
     p.noLoop();
 
-    // let orange = color(244,98,47);
-    // colors.push(orange);
-    // let pink = color(234,119,171);
-    // colors.push(pink);
-    // let brightRed = color(235,29,55);
-    // colors.push(brightRed);
-    // let limeGreen = color(202,239,170);
-    // colors.push(limeGreen);
-    // let cobaltBlue = color(26,98,234);
-    // colors.push(cobaltBlue);
-
     let orange = p.color(246, 149, 29);
     colors.push(orange);
     // let white = color(255,255,255);
